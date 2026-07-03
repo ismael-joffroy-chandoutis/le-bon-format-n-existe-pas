@@ -76,3 +76,5 @@ Pour Claude, la règle tient en une ligne : Markdown plus balises XML en entrée
 - Anthropic, prompting best practices : https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 - Which nested data format do LLMs understand best : https://www.improvingagents.com/blog/best-nested-data-format
 - Token-efficient formatting, Markdown vs XML vs JSON : https://shshell.com/blog/token-efficiency-module-4-lesson-4-efficient-formatting
+
+Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
