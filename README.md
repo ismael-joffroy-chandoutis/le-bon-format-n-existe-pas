@@ -2,7 +2,7 @@
 
 > Markdown, JSON, XML, YAML, lequel est le meilleur pour parler à un LLM ? La question revient sans cesse, et elle est mal posée de la même façon que celle de la langue. Il n'y a pas un format optimal, il y a une relation : qui lit (un humain, le modèle, du code), pour quelle tâche (raisonner, extraire), avec quel modèle. Déplacer le danger, c'est arrêter de chercher un gagnant universel et regarder les deux moments séparément, ce qu'on donne au modèle et ce qu'il rend.
 
-Compagnon de l'essai [La langue n'existe pas (pour un LLM)](https://github.com/12georgiadis/la-langue-n-existe-pas). Même logique, autre échelle.
+Compagnon de l'essai [La langue n'existe pas (pour un LLM)](https://github.com/ismael-joffroy-chandoutis/la-langue-n-existe-pas). Même logique, autre échelle.
 
 ## En bref
 
