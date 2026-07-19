@@ -8,7 +8,7 @@ Companion to the essay [Language doesn't exist (for an LLM)](https://github.com/
 
 ## In short
 
-- No universal format. On the same reasoning task, GPT-4 does better in Markdown than in JSON, and GPT-3.5 does the opposite. Up to 40% of gap on format alone.
+- No universal format. On the same reasoning task, GPT-4 does better in Markdown than in JSON, and GPT-3.5 does the opposite. Up to a 40% gap on format alone.
 - You judge on four axes that never point to the same format: token cost, interpretation by the model, human readability, reliable machine parsing.
 - The real dividing line is input versus output. On input you optimize for the model's interpretation and for context. On output you optimize for whoever consumes it: a human or some code.
 - For Claude, in one sentence: Markdown plus XML tags on input, Markdown on human output, JSON on machine output.
