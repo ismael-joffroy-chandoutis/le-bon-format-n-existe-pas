@@ -1,8 +1,12 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="banner.svg"><img src="banner-light.svg" alt="The right format does not exist" width="100%"></picture>
+
 # The right format doesn't exist (it depends who's reading)
 
 [Français](README.fr.md) · **English**
 
 > Markdown, JSON, XML, YAML, which one is best for talking to an LLM? The question keeps coming back, and it is badly framed in the same way as the one about language. There is no optimal format, there is a relation: who reads (a human, the model, some code), for which task (reasoning, extracting), with which model. Moving the problem means giving up the search for a universal winner and looking at the two moments separately, what you hand to the model and what it gives back.
+
+<img src="monde.jpg" alt="The right format doesn't exist" width="100%">
 
 Companion to the essay [Language doesn't exist (for an LLM)](https://github.com/ismael-joffroy-chandoutis/la-langue-n-existe-pas). Same logic, another scale.
 

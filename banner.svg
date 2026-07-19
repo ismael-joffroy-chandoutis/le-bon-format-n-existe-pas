@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="The right format does not exist">
+  <rect width="1280" height="400" fill="#0B0B0C"/>
+
+  <!-- line-art motif: three frames wrapping the same small content, one frame in accent -->
+  <g fill="none" stroke="#3A3A3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- shared content, identical in every frame: three short lines -->
+    <g stroke="#3A3A3C">
+      <line x1="1040" y1="142" x2="1080" y2="142"/>
+      <line x1="1040" y1="150" x2="1080" y2="150"/>
+      <line x1="1040" y1="158" x2="1080" y2="158"/>
+
+      <line x1="1040" y1="202" x2="1080" y2="202"/>
+      <line x1="1040" y1="210" x2="1080" y2="210"/>
+      <line x1="1040" y1="218" x2="1080" y2="218"/>
+
+      <line x1="1040" y1="262" x2="1080" y2="262"/>
+      <line x1="1040" y1="270" x2="1080" y2="270"/>
+      <line x1="1040" y1="278" x2="1080" y2="278"/>
+    </g>
+
+    <!-- frame 1: braces -->
+    <path d="M 1018 128 q -8 0 -8 8 v 6 q 0 8 -8 8 q 8 0 8 8 v 6 q 0 8 8 8"/>
+    <path d="M 1102 128 q 8 0 8 8 v 6 q 0 8 8 8 q -8 0 -8 8 v 6 q 0 8 -8 8"/>
+
+    <!-- frame 2: chevrons, accent -->
+    <polyline points="1022,192 1008,210 1022,228" stroke="#FF4400"/>
+    <polyline points="1098,192 1112,210 1098,228" stroke="#FF4400"/>
+
+    <!-- frame 3: dashes -->
+    <line x1="1004" y1="270" x2="1024" y2="270"/>
+    <line x1="1096" y1="270" x2="1116" y2="270"/>
+  </g>
+
+  <!-- title block, left half, vertically centered -->
+  <text x="96" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="300" font-size="52" letter-spacing="1" fill="#EDEAE3">The right format does not exist</text>
+  <text x="98" y="240" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="21" letter-spacing="0.4" fill="#8F8B84">It depends who is reading.</text>
+</svg>
